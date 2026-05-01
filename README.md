@@ -1,4 +1,4 @@
-# TG Signal Tracker
+# Telegram Signal Tracker
 
 Monitors Telegram channels for stock recommendations, auto-parses them with Claude AI, tracks live prices, and fires alerts to your personal Telegram bot.
 
